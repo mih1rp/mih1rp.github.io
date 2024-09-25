@@ -13,8 +13,10 @@
 <p> If you follow these steps, you can make a lot of money
 <span style='font-size:50px;'>&#129297;</span>
 <span style='font-size:50px;'>&#129297;</span>
-<img src="https://live.staticflickr.com/65535/17123251389_80282733ce_b.jpg" alt="Money 1">
-<img src="https://live.staticflickr.com/65535/17121925920_e2095f2df5_b.jpg" alt="Money 2">
+   <div style="position: relative;">
+<img src="https://live.staticflickr.com/65535/17123251389_80282733ce_b.jpg" alt="Money 1" width= "200" height="200" style="position: absolute; left: 60px; top: 120px;">
+</div> 
+<img src="https://live.staticflickr.com/65535/17121925920_e2095f2df5_b.jpg" alt="Money 2" width= "200" height="200">
 <style> body{background: green;} </style>
 </body>
 </html>
