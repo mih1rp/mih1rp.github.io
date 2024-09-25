@@ -14,9 +14,9 @@
 <span style='font-size:50px;'>&#129297;</span>
 <span style='font-size:50px;'>&#129297;</span>
    <div style="position: relative;">
-<img src="https://live.staticflickr.com/65535/17123251389_80282733ce_b.jpg" alt="Money 1" width= "200" height="200" style="position: absolute; left: 60px; top: 120px;">
+<img src="https://live.staticflickr.com/65535/17123251389_80282733ce_b.jpg" alt="Money 1" width= "250px" height="200px" style="position: absolute; left: 200px; top: 200px;">
 </div> 
-<img src="https://live.staticflickr.com/65535/17121925920_e2095f2df5_b.jpg" alt="Money 2" width= "200" height="200">
+<img src="https://live.staticflickr.com/65535/17121925920_e2095f2df5_b.jpg" alt="Money 2" width= "250px" height="200px">
 <style> body{background: green;} </style>
 </body>
 </html>
